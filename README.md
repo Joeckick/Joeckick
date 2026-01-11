@@ -1,6 +1,6 @@
-### Hi there, I'm Joe
+### Hi, I'm Joe :wave:
 
-I build products and lead teams — I'm currently Head of Product at [Cuvva](https://cuvva.com).
+I love to build products — I'm currently Head of Product at [Cuvva](https://cuvva.com).
 
 Previously I've been...
 - Head of Product at [Nude](https://getnude.com) (acquired by Tembo)
